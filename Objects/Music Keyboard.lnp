@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Music Keyboard.obj" 
+TO ".\Objects\Music Keyboard" 
+PRINT(".\Listings\Music Keyboard.m51") RAMSIZE(256) 
